@@ -13,9 +13,6 @@
     <li><a href="#model-building">Model Building</a></li>
     <li><a href="#results">Results</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
 </ol>
 
 <h2 id="introduction">Introduction</h2>
