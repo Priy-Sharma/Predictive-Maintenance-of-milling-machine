@@ -1,6 +1,3 @@
-<title>Predictive Maintenance of Milling Machine</title>
-</head>
-<body>
 
 <h1>Predictive Maintenance of Milling Machine</h1>
 
@@ -63,7 +60,7 @@
 </ul>
 
 <h2 id="usage">Usage</h2>
-<p>To explore the complete project, including detailed descriptions and code, please visit the Google Colab notebook <a href="https://colab.research.google.com/your-notebook-link">here</a>.</p>
+<p>To explore the complete project, including detailed descriptions and code, please visit the Google Colab notebook <a href="https://github.com/Priy-Sharma/Predictive-Maintenance-of-milling-machine/blob/main/Predicitve_maintenance.ipynb">here</a>.</p>
 <ol>
     <li><strong>Open the Colab Notebook:</strong>
         <ul>
@@ -73,11 +70,4 @@
     </li>
 </ol>
 
-<h2 id="contributing">Contributing</h2>
-<ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (<code>git checkout -b feature-branch</code>).</li>
-    <li>Commit your changes (<code>git commit -m 'Add new feature'</code>).</li>
-    <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
-    <li>Open a pull request.</li>
-</ol>
+
