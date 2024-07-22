@@ -30,9 +30,9 @@
 
 <h2 id="data-description">Data Description</h2>
 <ul>
-    <li><strong>Data Source:</strong> [Specify source]</li>
-    <li><strong>Features:</strong> Temperature, vibration, usage hours, etc.</li>
-    <li><strong>Target Variable:</strong> Machine status (normal, at-risk, failure).</li>
+    <li><strong>Data Source:<a href = 'https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification'>Kaggle</li>
+    <li><strong>Features:</strong> Temperature, Torque, Rotational Speed etc.</li>
+    <li><strong>Target Variable:</strong> Target (value 0 indicates there is no failure in the machine, 1 indicates the machine has failed)</li>
 </ul>
 
 <h2 id="methodology">Methodology</h2>
